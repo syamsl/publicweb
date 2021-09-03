@@ -195,7 +195,8 @@ h1{
 }
 
 #foot{
-    height:525px;
+    height:636px;
+    display: flex;
     background-color:rgb(255,240,229);
 }
 .footer{
